@@ -1,0 +1,14 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "This is a repo that makes a UTC timestamp from whatever your local machine is running.",
+  "main": "timestamp.js",
+  "scripts": {
+    "timestamp": "node timestamp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
